@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>save_and_open_page
+$0</string>
+	<key>name</key>
+	<string>Save and open page</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>sp</string>
+	<key>uuid</key>
+	<string>6BC5ADC4-4C78-476D-9B12-9757C2E06810</string>
+</dict>
+</plist>
