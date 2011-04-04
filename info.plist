@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C4E89850-9A37-4338-A9C8-8EBF25C55820</string>
+			<string>AE5B3EBD-8E36-40D0-87D0-A56D32C968A9</string>
+			<string>3E31EE9B-C7D3-4E0B-BED6-61F962B228DC</string>
+			<string>900F9D7D-4CA5-4438-814F-3157F2E56A25</string>
+			<string>D97A00E2-619D-4260-A835-288507948C2E</string>
+			<string>07A341F1-2689-466F-A17C-C5B8950156B3</string>
+			<string>2CBE8257-9622-4DD3-B187-5F1C30C01E4E</string>
+			<string>69E49FE3-94AC-49A8-9C73-1DE5BA59C299</string>
+			<string>4985965B-104B-480B-BE9A-464758C2A49A</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Capybara</string>
+	<key>ordering</key>
+	<array>
+		<string>C4E89850-9A37-4338-A9C8-8EBF25C55820</string>
+		<string>AE5B3EBD-8E36-40D0-87D0-A56D32C968A9</string>
+		<string>3E31EE9B-C7D3-4E0B-BED6-61F962B228DC</string>
+		<string>900F9D7D-4CA5-4438-814F-3157F2E56A25</string>
+		<string>4985965B-104B-480B-BE9A-464758C2A49A</string>
+	</array>
+	<key>uuid</key>
+	<string>A0732348-76BF-4D5C-BB6B-23F62A87CDF8</string>
+</dict>
+</plist>
